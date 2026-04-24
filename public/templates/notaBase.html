@@ -1,0 +1,74 @@
+function generarTemplate(data, filas) {
+return `
+<html>
+<head>
+<meta charset="UTF-8">
+<style>
+@page { size: letter; margin: 0; }
+body { font-family: Arial; margin: 0; }
+
+.hoja { display: flex; flex-direction: column; height: 100%; }
+.nota { height: 50%; padding: 10mm; border-bottom: dashed 1px black; position: relative; }
+
+.tipo { position: absolute; bottom: 10px; right: 10px; font-weight: bold; }
+
+table { width: 100%; border-collapse: collapse; }
+td, th { border: 1px solid black; padding: 3px; font-size: 12px; }
+
+h2 { text-align: center; }
+</style>
+</head>
+
+<body>
+
+<div class="hoja">
+
+  <div class="nota">
+    ${contenido(data, filas)}
+    <div class="tipo">ORIGINAL</div>
+  </div>
+
+  <div class="nota">
+    ${contenido(data, filas)}
+    <div class="tipo">CLIENTE</div>
+  </div>
+
+</div>
+
+<script>
+window.onload = () => window.print();
+<\/script>
+
+</body>
+</html>
+`;
+}
+
+function contenido(d, filas) {
+return `
+<h2>NOTA DE VENTA</h2>
+
+<table>
+<tr><td>Folio</td><td>${d.folio}</td><td>Fecha</td><td>${d.fecha}</td></tr>
+<tr><td>Nombre</td><td>${d.nombre}</td><td>Tel</td><td>${d.tel}</td></tr>
+<tr><td>Correo</td><td>${d.correo}</td><td>Atiende</td><td>${d.atiende}</td></tr>
+</table>
+
+<table>
+<tr>
+<th>CANT</th><th>CONCEPTO</th><th>COSTO</th><th>IMPORTE</th>
+</tr>
+${filas}
+</table>
+
+<table style="width:40%; float:right;">
+<tr><td>Total</td><td>${d.total}</td></tr>
+<tr><td>Anticipo</td><td>${d.anticipo}</td></tr>
+<tr><td>Restante</td><td>${d.restante}</td></tr>
+</table>
+
+<div style="margin-top:50px;">
+Notas: ${d.notas}
+</div>
+`;
+}

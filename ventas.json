@@ -1,0 +1,3381 @@
+[
+  {
+    "folio": "NV-0006",
+    "fecha": "2026-04-16",
+    "nombre": "",
+    "tel": "",
+    "correo": "",
+    "atiende": "",
+    "total": "",
+    "anticipo": "",
+    "restante": "",
+    "notas": "",
+    "productos": [
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": ""
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": ""
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": ""
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": ""
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": ""
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": ""
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": ""
+      }
+    ],
+    "fechaGuardado": "16/4/2026, 11:29:25"
+  },
+  {
+    "folio": "NV-0006",
+    "fecha": "2026-04-16",
+    "nombre": "",
+    "tel": "",
+    "correo": "",
+    "atiende": "",
+    "total": "0.00",
+    "anticipo": "",
+    "restante": "0.00",
+    "notas": "",
+    "productos": [
+      {
+        "cantidad": "4755",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      }
+    ],
+    "fechaGuardado": "16/4/2026, 11:29:40"
+  },
+  {
+    "folio": "NV-0006",
+    "fecha": "2026-04-16",
+    "nombre": "",
+    "tel": "",
+    "correo": "",
+    "atiende": "",
+    "total": "0.00",
+    "anticipo": "",
+    "restante": "0.00",
+    "notas": "",
+    "productos": [
+      {
+        "cantidad": "4755",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      }
+    ],
+    "fechaGuardado": "16/4/2026, 11:29:41"
+  },
+  {
+    "folio": "NV-0006",
+    "fecha": "2026-04-16",
+    "nombre": "betp",
+    "tel": "15151515",
+    "correo": "",
+    "atiende": "gil",
+    "total": "2500.00",
+    "anticipo": "1000",
+    "restante": "1500.00",
+    "notas": "manda msj ",
+    "productos": [
+      {
+        "cantidad": "50",
+        "concepto": "lonas",
+        "costo": "50",
+        "importe": "2500.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      }
+    ],
+    "fechaGuardado": "16/4/2026, 12:56:09"
+  },
+  {
+    "folio": "NV-0006",
+    "fecha": "2026-04-16",
+    "nombre": "gilo",
+    "tel": "5035",
+    "correo": "",
+    "atiende": "beto",
+    "total": "3900.00",
+    "anticipo": "900",
+    "restante": "3000.00",
+    "notas": "asi mero ",
+    "productos": [
+      {
+        "cantidad": "50",
+        "concepto": "lonas",
+        "costo": "78",
+        "importe": "3900.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      }
+    ],
+    "fechaGuardado": "16/4/2026, 12:57:51"
+  },
+  {
+    "folio": "NV-0006",
+    "fecha": "2026-04-16",
+    "nombre": "gilo",
+    "tel": "352 2439411",
+    "correo": "",
+    "atiende": "beto",
+    "total": "4540.00",
+    "anticipo": "2290",
+    "restante": "2250.00",
+    "notas": "manda info whats ",
+    "productos": [
+      {
+        "cantidad": "50",
+        "concepto": "lonas",
+        "costo": "78",
+        "importe": "3900.00"
+      },
+      {
+        "cantidad": "10",
+        "concepto": "tabloides",
+        "costo": "30",
+        "importe": "300.00"
+      },
+      {
+        "cantidad": "1",
+        "concepto": "diseño",
+        "costo": "100",
+        "importe": "100.00"
+      },
+      {
+        "cantidad": "16",
+        "concepto": "termos",
+        "costo": "15",
+        "importe": "240.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      }
+    ],
+    "fechaGuardado": "17/4/2026, 13:02:14"
+  },
+  {
+    "folio": "NV-0006",
+    "fecha": "2026-04-17",
+    "nombre": "",
+    "tel": "",
+    "correo": "",
+    "atiende": "",
+    "total": "",
+    "anticipo": "",
+    "restante": "",
+    "notas": "",
+    "productos": [
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": ""
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": ""
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": ""
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": ""
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": ""
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": ""
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": ""
+      }
+    ],
+    "fechaGuardado": "17/4/2026, 13:09:14"
+  },
+  {
+    "folio": "NV-0006",
+    "fecha": "2026-04-17",
+    "nombre": "GILBERTO",
+    "tel": "425039420",
+    "correo": "",
+    "atiende": "jilo",
+    "total": "2210.00",
+    "anticipo": "500",
+    "restante": "1710.00",
+    "notas": "estas notas ",
+    "productos": [
+      {
+        "cantidad": "10",
+        "concepto": "lona",
+        "costo": "20",
+        "importe": "200.00"
+      },
+      {
+        "cantidad": "20",
+        "concepto": "folletos",
+        "costo": "90",
+        "importe": "1800.00"
+      },
+      {
+        "cantidad": "30",
+        "concepto": "pulceras",
+        "costo": "7",
+        "importe": "210.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      }
+    ],
+    "fechaGuardado": "17/4/2026, 14:37:18"
+  },
+  {
+    "folio": "NV-0006",
+    "fecha": "2026-04-17",
+    "nombre": "kjhgfd",
+    "tel": "oiujhgf",
+    "correo": ".l,kmjnhbg",
+    "atiende": "loikujhbg",
+    "total": "10750.00",
+    "anticipo": "4998",
+    "restante": "5752.00",
+    "notas": "987uy6",
+    "productos": [
+      {
+        "cantidad": "50",
+        "concepto": "kj",
+        "costo": "72",
+        "importe": "3600.00"
+      },
+      {
+        "cantidad": "50",
+        "concepto": "uy",
+        "costo": "78",
+        "importe": "3900.00"
+      },
+      {
+        "cantidad": "50",
+        "concepto": "iuyt",
+        "costo": "65",
+        "importe": "3250.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      }
+    ],
+    "fechaGuardado": "17/4/2026, 14:42:16"
+  },
+  {
+    "folio": "NV-0006",
+    "fecha": "2026-04-17",
+    "nombre": "vber",
+    "tel": "e",
+    "correo": "er",
+    "atiende": "er",
+    "total": "6585.00",
+    "anticipo": "1234",
+    "restante": "5351.00",
+    "notas": "asdfghj",
+    "productos": [
+      {
+        "cantidad": "50",
+        "concepto": "a",
+        "costo": "1",
+        "importe": "50.00"
+      },
+      {
+        "cantidad": "85",
+        "concepto": "b",
+        "costo": "2",
+        "importe": "170.00"
+      },
+      {
+        "cantidad": "6",
+        "concepto": "c",
+        "costo": "3",
+        "importe": "18.00"
+      },
+      {
+        "cantidad": "1",
+        "concepto": "d",
+        "costo": "4",
+        "importe": "4.00"
+      },
+      {
+        "cantidad": "82",
+        "concepto": "e",
+        "costo": "5",
+        "importe": "410.00"
+      },
+      {
+        "cantidad": "73",
+        "concepto": "f",
+        "costo": "6",
+        "importe": "438.00"
+      },
+      {
+        "cantidad": "785",
+        "concepto": "ag",
+        "costo": "7",
+        "importe": "5495.00"
+      }
+    ],
+    "fechaGuardado": "17/4/2026, 14:49:29"
+  },
+  {
+    "folio": "NV-0006",
+    "fecha": "2026-04-17",
+    "nombre": "efbv q",
+    "tel": "qer",
+    "correo": "",
+    "atiende": "",
+    "total": "0.00",
+    "anticipo": "",
+    "restante": "0.00",
+    "notas": "",
+    "productos": [
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      }
+    ],
+    "fechaGuardado": "17/4/2026, 14:53:10"
+  },
+  {
+    "folio": "NV-0007",
+    "fecha": "2026-04-17",
+    "nombre": "jhgf",
+    "tel": "hgtrf",
+    "correo": "rb",
+    "atiende": "rbrrynb",
+    "total": "3200.00",
+    "anticipo": "903",
+    "restante": "2297.00",
+    "notas": "",
+    "productos": [
+      {
+        "cantidad": "10",
+        "concepto": "l",
+        "costo": "40",
+        "importe": "400.00"
+      },
+      {
+        "cantidad": "20",
+        "concepto": "k",
+        "costo": "50",
+        "importe": "1000.00"
+      },
+      {
+        "cantidad": "30",
+        "concepto": "j",
+        "costo": "60",
+        "importe": "1800.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      }
+    ],
+    "fechaGuardado": "17/4/2026, 14:57:52"
+  },
+  {
+    "fecha": "2026-04-17",
+    "nombre": "GILBERTO",
+    "tel": "",
+    "correo": "",
+    "atiende": "",
+    "total": "100.00",
+    "anticipo": "10",
+    "restante": "90.00",
+    "notas": "",
+    "productos": [
+      {
+        "cantidad": "10",
+        "concepto": "10",
+        "costo": "10",
+        "importe": "100.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      }
+    ],
+    "folio": "NV-0008",
+    "fechaGuardado": "17/4/2026, 16:54:22"
+  },
+  {
+    "fecha": "2026-04-17",
+    "nombre": "",
+    "tel": "",
+    "correo": "",
+    "atiende": "",
+    "total": "",
+    "anticipo": "",
+    "restante": "",
+    "notas": "",
+    "productos": [
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": ""
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": ""
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": ""
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": ""
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": ""
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": ""
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": ""
+      }
+    ],
+    "folio": "NV-0009",
+    "fechaGuardado": "17/4/2026, 16:56:28"
+  },
+  {
+    "fecha": "2026-04-17",
+    "nombre": "hola",
+    "tel": "",
+    "correo": "",
+    "atiende": "",
+    "total": "0.00",
+    "anticipo": "",
+    "restante": "0.00",
+    "notas": "",
+    "productos": [
+      {
+        "cantidad": "10",
+        "concepto": "lonAS",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      }
+    ],
+    "folio": "NV-0010",
+    "fechaGuardado": "17/4/2026, 16:56:42"
+  },
+  {
+    "fecha": "2026-04-17",
+    "nombre": "hola",
+    "tel": "",
+    "correo": "",
+    "atiende": "",
+    "total": "0.00",
+    "anticipo": "",
+    "restante": "0.00",
+    "notas": "",
+    "productos": [
+      {
+        "cantidad": "10",
+        "concepto": "lonAS",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      }
+    ],
+    "folio": "NV-0011",
+    "fechaGuardado": "17/4/2026, 16:56:43"
+  },
+  {
+    "fecha": "2026-04-17",
+    "nombre": "GIL",
+    "tel": "412002455",
+    "correo": "JMJHGF",
+    "atiende": "GIL",
+    "total": "4820.00",
+    "anticipo": "50",
+    "restante": "4770.00",
+    "notas": "MANDA INFO WHATS ",
+    "productos": [
+      {
+        "cantidad": "50",
+        "concepto": "LONAS 1X2",
+        "costo": "50",
+        "importe": "2500.00"
+      },
+      {
+        "cantidad": "75",
+        "concepto": "ADESIVOS ",
+        "costo": "30",
+        "importe": "2250.00"
+      },
+      {
+        "cantidad": "10",
+        "concepto": "PULCERAS",
+        "costo": "7",
+        "importe": "70.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      }
+    ],
+    "folio": "NV-0012",
+    "fechaGuardado": "17/4/2026, 16:59:19"
+  },
+  {
+    "fecha": "2026-04-17",
+    "nombre": "t7lk",
+    "tel": "",
+    "correo": "",
+    "atiende": "",
+    "total": "0.00",
+    "anticipo": "",
+    "restante": "0.00",
+    "notas": "",
+    "productos": [
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      }
+    ],
+    "folio": "NV-0013",
+    "fechaGuardado": "17/4/2026, 17:04:07"
+  },
+  {
+    "fecha": "2026-04-17",
+    "nombre": "t7lk",
+    "tel": "",
+    "correo": "",
+    "atiende": "",
+    "total": "0.00",
+    "anticipo": "",
+    "restante": "0.00",
+    "notas": "",
+    "productos": [
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      }
+    ],
+    "folio": "NV-0014",
+    "fechaGuardado": "17/4/2026, 17:04:07"
+  },
+  {
+    "fecha": "2026-04-17",
+    "nombre": "GILBERTO",
+    "tel": "",
+    "correo": "",
+    "atiende": "",
+    "total": "100.00",
+    "anticipo": "",
+    "restante": "100.00",
+    "notas": "",
+    "productos": [
+      {
+        "cantidad": "10",
+        "concepto": "10",
+        "costo": "10",
+        "importe": "100.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      }
+    ],
+    "folio": "NV-0015",
+    "fechaGuardado": "17/4/2026, 17:04:32"
+  },
+  {
+    "fecha": "2026-04-17",
+    "nombre": "ENRIQUE",
+    "tel": "4431648225",
+    "correo": "",
+    "atiende": "GIL",
+    "total": "892.00",
+    "anticipo": "400",
+    "restante": "492.00",
+    "notas": "MANDA DISEÑO WHATS ",
+    "productos": [
+      {
+        "cantidad": "4",
+        "concepto": "LONAS ",
+        "costo": "223",
+        "importe": "892.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      }
+    ],
+    "folio": "NV-0016",
+    "fechaGuardado": "17/4/2026, 17:58:40"
+  },
+  {
+    "fecha": "2026-04-20",
+    "nombre": "GILBERTO",
+    "tel": "",
+    "correo": "",
+    "atiende": "",
+    "total": "100.00",
+    "anticipo": "",
+    "restante": "100.00",
+    "notas": "",
+    "productos": [
+      {
+        "cantidad": "10",
+        "concepto": "10",
+        "costo": "10",
+        "importe": "100.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      }
+    ],
+    "folio": "NV-0017",
+    "fechaGuardado": "19/4/2026, 23:17:10"
+  },
+  {
+    "fecha": "2026-04-20",
+    "nombre": "GILO",
+    "tel": "753",
+    "correo": "",
+    "atiende": "JIL",
+    "total": "240.00",
+    "anticipo": "50",
+    "restante": "190.00",
+    "notas": "",
+    "productos": [
+      {
+        "cantidad": "12",
+        "concepto": "HOJAS",
+        "costo": "20",
+        "importe": "240.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      }
+    ],
+    "folio": "NV-0018",
+    "fechaGuardado": "19/4/2026, 23:18:47"
+  },
+  {
+    "fecha": "2026-04-20",
+    "nombre": "sdfgh",
+    "tel": "5454",
+    "correo": "jk",
+    "atiende": "gilo",
+    "total": "790.00",
+    "anticipo": "500",
+    "restante": "290.00",
+    "notas": "",
+    "productos": [
+      {
+        "cantidad": "10",
+        "concepto": "lona",
+        "costo": "79",
+        "importe": "790.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      }
+    ],
+    "folio": "NV-0019",
+    "fechaGuardado": "19/4/2026, 23:19:39"
+  },
+  {
+    "fecha": "2026-04-20",
+    "nombre": "gil",
+    "tel": "5150",
+    "correo": "",
+    "atiende": "gil",
+    "total": "490.00",
+    "anticipo": "50",
+    "restante": "440.00",
+    "notas": "",
+    "productos": [
+      {
+        "cantidad": "10",
+        "concepto": "conec",
+        "costo": "49",
+        "importe": "490.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      }
+    ],
+    "folio": "NV-0020",
+    "fechaGuardado": "19/4/2026, 23:30:00"
+  },
+  {
+    "fecha": "2026-04-20",
+    "nombre": "dfghj",
+    "tel": "",
+    "correo": "",
+    "atiende": "",
+    "total": "26950.00",
+    "anticipo": "",
+    "restante": "26950.00",
+    "notas": "",
+    "productos": [
+      {
+        "cantidad": "550",
+        "concepto": "",
+        "costo": "49",
+        "importe": "26950.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      }
+    ],
+    "folio": "NV-0021",
+    "fechaGuardado": "19/4/2026, 23:30:47"
+  },
+  {
+    "fecha": "2026-04-20",
+    "nombre": "beto",
+    "tel": "54115",
+    "correo": "",
+    "atiende": "gil",
+    "total": "26950.00",
+    "anticipo": "5000",
+    "restante": "21950.00",
+    "notas": "",
+    "productos": [
+      {
+        "cantidad": "550",
+        "concepto": "lonaas",
+        "costo": "49",
+        "importe": "26950.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      }
+    ],
+    "folio": "NV-0022",
+    "fechaGuardado": "19/4/2026, 23:32:04"
+  },
+  {
+    "fecha": "2026-04-20",
+    "nombre": "GILBERTO",
+    "tel": "852",
+    "correo": "",
+    "atiende": "jil",
+    "total": "550.00",
+    "anticipo": "500",
+    "restante": "50.00",
+    "notas": "",
+    "productos": [
+      {
+        "cantidad": "50",
+        "concepto": "con",
+        "costo": "11",
+        "importe": "550.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      }
+    ],
+    "folio": "NV-0023",
+    "fechaGuardado": "19/4/2026, 23:36:05"
+  },
+  {
+    "fecha": "2026-04-20",
+    "nombre": "gilo",
+    "tel": "504",
+    "correo": "",
+    "atiende": "",
+    "total": "440.00",
+    "anticipo": "50",
+    "restante": "390.00",
+    "notas": "",
+    "productos": [
+      {
+        "cantidad": "40",
+        "concepto": "",
+        "costo": "11",
+        "importe": "440.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      }
+    ],
+    "folio": "NV-0024",
+    "fechaGuardado": "19/4/2026, 23:38:46"
+  },
+  {
+    "fecha": "2026-04-20",
+    "nombre": "beto",
+    "tel": "54115",
+    "correo": "",
+    "atiende": "gil",
+    "total": "26950.00",
+    "anticipo": "5000",
+    "restante": "21950.00",
+    "notas": "",
+    "productos": [
+      {
+        "cantidad": "550",
+        "concepto": "lonaas",
+        "costo": "49",
+        "importe": "26950.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      }
+    ],
+    "folio": "NV-0025",
+    "fechaGuardado": "20/4/2026, 11:46:44"
+  },
+  {
+    "fecha": "2026-04-20",
+    "nombre": "",
+    "tel": "",
+    "correo": "",
+    "atiende": "",
+    "total": "",
+    "anticipo": "",
+    "restante": "",
+    "notas": "",
+    "productos": [
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": ""
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": ""
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": ""
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": ""
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": ""
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": ""
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": ""
+      }
+    ],
+    "folio": "NV-0026",
+    "fechaGuardado": "20/4/2026, 12:24:47"
+  },
+  {
+    "fecha": "2026-04-23",
+    "nombre": "juan peres",
+    "tel": "54",
+    "correo": "rthb",
+    "atiende": "gilo",
+    "total": "1000.00",
+    "anticipo": "10",
+    "restante": "990.00",
+    "notas": "manda whats",
+    "productos": [
+      {
+        "cantidad": "20",
+        "concepto": "lonas",
+        "costo": "50",
+        "importe": "1000.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      }
+    ],
+    "folio": "NV-0027",
+    "fechaGuardado": "23/4/2026, 14:26:22"
+  },
+  {
+    "fecha": "2026-04-23",
+    "nombre": "pepito",
+    "tel": "54",
+    "correo": "rthb",
+    "atiende": "gilo",
+    "total": "1000.00",
+    "anticipo": "10",
+    "restante": "990.00",
+    "notas": "manda whats",
+    "productos": [
+      {
+        "cantidad": "20",
+        "concepto": "lonas",
+        "costo": "50",
+        "importe": "1000.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      }
+    ],
+    "folio": "NV-0028",
+    "fechaGuardado": "23/4/2026, 14:27:09"
+  },
+  {
+    "fecha": "2026-04-23",
+    "nombre": "pepito",
+    "tel": "443 000 000",
+    "correo": "rthb@fine.es",
+    "atiende": "gilo",
+    "total": "14750.00",
+    "anticipo": "5001",
+    "restante": "9749.00",
+    "notas": "manda whats con diseño ",
+    "productos": [
+      {
+        "cantidad": "20",
+        "concepto": "uniformes ",
+        "costo": "350",
+        "importe": "7000.00"
+      },
+      {
+        "cantidad": "23",
+        "concepto": "playeras",
+        "costo": "250",
+        "importe": "5750.00"
+      },
+      {
+        "cantidad": "10",
+        "concepto": "playeras",
+        "costo": "200",
+        "importe": "2000.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      }
+    ],
+    "folio": "NV-0029",
+    "fechaGuardado": "23/4/2026, 14:29:47"
+  },
+  {
+    "fecha": "2026-04-23",
+    "nombre": "juanito ",
+    "tel": "443 000 000",
+    "correo": "rthb@fine.es",
+    "atiende": "gilo",
+    "total": "14750.00",
+    "anticipo": "5001",
+    "restante": "9749.00",
+    "notas": "manda whats con diseño ",
+    "productos": [
+      {
+        "cantidad": "20",
+        "concepto": "uniformes ",
+        "costo": "350",
+        "importe": "7000.00"
+      },
+      {
+        "cantidad": "23",
+        "concepto": "playeras",
+        "costo": "250",
+        "importe": "5750.00"
+      },
+      {
+        "cantidad": "10",
+        "concepto": "playeras",
+        "costo": "200",
+        "importe": "2000.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      }
+    ],
+    "folio": "NV-0030",
+    "fechaGuardado": "23/4/2026, 14:44:45"
+  },
+  {
+    "fecha": "2026-04-23",
+    "nombre": "juanito nueva agenda",
+    "tel": "443 000 000",
+    "correo": "rthb@fine.es",
+    "atiende": "gilo",
+    "total": "14750.00",
+    "anticipo": "5001",
+    "restante": "9749.00",
+    "notas": "manda whats con diseño ",
+    "productos": [
+      {
+        "cantidad": "20",
+        "concepto": "uniformes ",
+        "costo": "350",
+        "importe": "7000.00"
+      },
+      {
+        "cantidad": "23",
+        "concepto": "playeras",
+        "costo": "250",
+        "importe": "5750.00"
+      },
+      {
+        "cantidad": "10",
+        "concepto": "playeras",
+        "costo": "200",
+        "importe": "2000.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      }
+    ],
+    "folio": "NV-0031",
+    "fechaGuardado": "23/4/2026, 15:07:22"
+  },
+  {
+    "fecha": "2026-04-23",
+    "nombre": "provando pdf",
+    "tel": "443 000 000",
+    "correo": "rthb@fine.es",
+    "atiende": "gilo",
+    "total": "14750.00",
+    "anticipo": "5001",
+    "restante": "9749.00",
+    "notas": "manda whats con diseño ",
+    "productos": [
+      {
+        "cantidad": "20",
+        "concepto": "uniformes ",
+        "costo": "350",
+        "importe": "7000.00"
+      },
+      {
+        "cantidad": "23",
+        "concepto": "playeras",
+        "costo": "250",
+        "importe": "5750.00"
+      },
+      {
+        "cantidad": "10",
+        "concepto": "playeras",
+        "costo": "200",
+        "importe": "2000.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      }
+    ],
+    "folio": "NV-0032",
+    "fechaGuardado": "23/4/2026, 15:12:22"
+  },
+  {
+    "fecha": "2026-04-23",
+    "nombre": "prov en",
+    "tel": "443 000 000",
+    "correo": "rthb@fine.es",
+    "atiende": "gilo",
+    "total": "14750.00",
+    "anticipo": "5001",
+    "restante": "9749.00",
+    "notas": "manda whats con diseño ",
+    "productos": [
+      {
+        "cantidad": "20",
+        "concepto": "uniformes ",
+        "costo": "350",
+        "importe": "7000.00"
+      },
+      {
+        "cantidad": "23",
+        "concepto": "playeras",
+        "costo": "250",
+        "importe": "5750.00"
+      },
+      {
+        "cantidad": "10",
+        "concepto": "playeras",
+        "costo": "200",
+        "importe": "2000.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      }
+    ],
+    "folio": "NV-0033",
+    "fechaGuardado": "23/4/2026, 15:23:46"
+  },
+  {
+    "fecha": "2026-04-23",
+    "nombre": "prov en2",
+    "tel": "443 000 000",
+    "correo": "rthb@fine.es",
+    "atiende": "gilo",
+    "total": "14750.00",
+    "anticipo": "5001",
+    "restante": "9749.00",
+    "notas": "manda whats con diseño ",
+    "productos": [
+      {
+        "cantidad": "20",
+        "concepto": "uniformes ",
+        "costo": "350",
+        "importe": "7000.00"
+      },
+      {
+        "cantidad": "23",
+        "concepto": "playeras",
+        "costo": "250",
+        "importe": "5750.00"
+      },
+      {
+        "cantidad": "10",
+        "concepto": "playeras",
+        "costo": "200",
+        "importe": "2000.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      }
+    ],
+    "folio": "NV-0034",
+    "fechaGuardado": "23/4/2026, 15:27:11"
+  },
+  {
+    "fecha": "2026-04-23",
+    "nombre": "fechen",
+    "tel": "hgfds",
+    "correo": "jhgfd",
+    "atiende": "hgfd",
+    "total": "100.00",
+    "anticipo": "",
+    "restante": "100.00",
+    "notas": "hygtfrd",
+    "productos": [
+      {
+        "cantidad": "10",
+        "concepto": "10",
+        "costo": "10",
+        "importe": "100.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      }
+    ],
+    "folio": "NV-0035",
+    "fechaGuardado": "23/4/2026, 15:44:24"
+  },
+  {
+    "fecha": "2026-04-23",
+    "nombre": "fecha 26",
+    "tel": "",
+    "correo": "",
+    "atiende": "",
+    "total": "500.00",
+    "anticipo": "",
+    "restante": "500.00",
+    "notas": "26",
+    "productos": [
+      {
+        "cantidad": "10",
+        "concepto": "26 entrega",
+        "costo": "50",
+        "importe": "500.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      }
+    ],
+    "folio": "NV-0036",
+    "fechaGuardado": "23/4/2026, 15:53:37"
+  },
+  {
+    "fecha": "2026-04-23",
+    "nombre": "p",
+    "tel": "",
+    "correo": "",
+    "atiende": "",
+    "total": "676.00",
+    "anticipo": "26",
+    "restante": "650.00",
+    "notas": "dia 26",
+    "productos": [
+      {
+        "cantidad": "26",
+        "concepto": "dia 26",
+        "costo": "26",
+        "importe": "676.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      }
+    ],
+    "folio": "NV-0037",
+    "fechaGuardado": "23/4/2026, 16:00:41"
+  },
+  {
+    "fecha": "2026-04-23",
+    "nombre": "ti26",
+    "tel": "",
+    "correo": "",
+    "atiende": "",
+    "total": "520.00",
+    "anticipo": "",
+    "restante": "520.00",
+    "notas": "",
+    "productos": [
+      {
+        "cantidad": "20",
+        "concepto": "",
+        "costo": "26",
+        "importe": "520.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      }
+    ],
+    "folio": "NV-0038",
+    "fechaGuardado": "23/4/2026, 16:27:18"
+  },
+  {
+    "fecha": "2026-04-23",
+    "fecha_entrega": "2026-04-26",
+    "nombre": "",
+    "tel": "",
+    "correo": "",
+    "atiende": "",
+    "total": "0.00",
+    "anticipo": "",
+    "restante": "0.00",
+    "notas": "",
+    "productos": [
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      }
+    ],
+    "folio": "NV-0039",
+    "fechaGuardado": "23/4/2026, 16:29:33"
+  },
+  {
+    "fecha": "2026-04-23",
+    "fecha_entrega": "2026-04-26",
+    "nombre": "aver 26",
+    "tel": "4443",
+    "correo": "",
+    "atiende": "",
+    "total": "676.00",
+    "anticipo": "",
+    "restante": "676.00",
+    "notas": "",
+    "productos": [
+      {
+        "cantidad": "26",
+        "concepto": "tienen 26",
+        "costo": "26",
+        "importe": "676.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      }
+    ],
+    "folio": "NV-0040",
+    "fechaGuardado": "23/4/2026, 17:09:52"
+  },
+  {
+    "fecha": "2026-04-24",
+    "fecha_entrega": "2026-04-26",
+    "nombre": "juan enrique ",
+    "tel": "440 6502 059",
+    "correo": "",
+    "atiende": "gil",
+    "total": "1600.00",
+    "anticipo": "500",
+    "restante": "1100.00",
+    "notas": "colores rojso ",
+    "productos": [
+      {
+        "cantidad": "50",
+        "concepto": "carteloes",
+        "costo": "30",
+        "importe": "1500.00"
+      },
+      {
+        "cantidad": "1",
+        "concepto": "diseño",
+        "costo": "100",
+        "importe": "100.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      }
+    ],
+    "folio": "NV-0041",
+    "fechaGuardado": "24/4/2026, 13:52:05"
+  },
+  {
+    "fecha": "2026-04-24",
+    "fecha_entrega": "",
+    "nombre": "GILBERTO",
+    "tel": "",
+    "correo": "",
+    "atiende": "",
+    "total": "10.00",
+    "anticipo": "5",
+    "restante": "5.00",
+    "notas": "",
+    "productos": [
+      {
+        "cantidad": "10",
+        "concepto": "10",
+        "costo": "01",
+        "importe": "10.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      }
+    ],
+    "folio": "NV-0042",
+    "fechaGuardado": "24/4/2026, 14:07:28"
+  },
+  {
+    "fecha": "2026-04-24",
+    "fecha_entrega": "",
+    "nombre": "GILBERTO",
+    "tel": "563435",
+    "correo": "",
+    "atiende": "",
+    "total": "61669609.00",
+    "anticipo": "7658327",
+    "restante": "54011282.00",
+    "notas": "",
+    "productos": [
+      {
+        "cantidad": "7853",
+        "concepto": "7853",
+        "costo": "7853",
+        "importe": "61669609.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      }
+    ],
+    "folio": "NV-0043",
+    "fechaGuardado": "24/4/2026, 14:10:07"
+  },
+  {
+    "fecha": "2026-04-24",
+    "fecha_entrega": "",
+    "nombre": "",
+    "tel": "",
+    "correo": "",
+    "atiende": "",
+    "total": "",
+    "anticipo": "",
+    "restante": "",
+    "notas": "",
+    "productos": [
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": ""
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": ""
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": ""
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": ""
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": ""
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": ""
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": ""
+      }
+    ],
+    "folio": "NV-0044",
+    "fechaGuardado": "24/4/2026, 15:25:43"
+  },
+  {
+    "fecha": "2026-04-24",
+    "fecha_entrega": "",
+    "nombre": "",
+    "tel": "",
+    "correo": "",
+    "atiende": "",
+    "total": "",
+    "anticipo": "",
+    "restante": "",
+    "notas": "",
+    "productos": [
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": ""
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": ""
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": ""
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": ""
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": ""
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": ""
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": ""
+      }
+    ],
+    "folio": "NV-0045",
+    "fechaGuardado": "24/4/2026, 15:26:14"
+  },
+  {
+    "fecha": "2026-04-24",
+    "fecha_entrega": "",
+    "nombre": "",
+    "tel": "",
+    "correo": "",
+    "atiende": "",
+    "total": "",
+    "anticipo": "",
+    "restante": "",
+    "notas": "",
+    "productos": [
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": ""
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": ""
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": ""
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": ""
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": ""
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": ""
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": ""
+      }
+    ],
+    "folio": "NV-0046",
+    "fechaGuardado": "24/4/2026, 15:35:17"
+  },
+  {
+    "fecha": "2026-04-24",
+    "fecha_entrega": "",
+    "nombre": "",
+    "tel": "",
+    "correo": "",
+    "atiende": "",
+    "total": "",
+    "anticipo": "",
+    "restante": "",
+    "notas": "",
+    "productos": [
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": ""
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": ""
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": ""
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": ""
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": ""
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": ""
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": ""
+      }
+    ],
+    "folio": "NV-0047",
+    "fechaGuardado": "24/4/2026, 15:40:40"
+  },
+  {
+    "fecha": "2026-04-24",
+    "fecha_entrega": "",
+    "nombre": "",
+    "tel": "",
+    "correo": "",
+    "atiende": "",
+    "total": "100.00",
+    "anticipo": "10",
+    "restante": "90.00",
+    "notas": "",
+    "productos": [
+      {
+        "cantidad": "10",
+        "concepto": "",
+        "costo": "10",
+        "importe": "100.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      }
+    ],
+    "folio": "NV-0048",
+    "fechaGuardado": "24/4/2026, 15:43:06"
+  },
+  {
+    "fecha": "2026-04-24",
+    "fecha_entrega": "",
+    "nombre": "",
+    "tel": "",
+    "correo": "",
+    "atiende": "",
+    "total": "1123375.00",
+    "anticipo": "1078",
+    "restante": "1122297.00",
+    "notas": "",
+    "productos": [
+      {
+        "cantidad": "1045",
+        "concepto": "",
+        "costo": "1075",
+        "importe": "1123375.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      }
+    ],
+    "folio": "NV-0049",
+    "fechaGuardado": "24/4/2026, 15:43:23"
+  },
+  {
+    "fecha": "2026-04-24",
+    "fecha_entrega": "",
+    "nombre": "",
+    "tel": "",
+    "correo": "",
+    "atiende": "",
+    "total": "1123375.00",
+    "anticipo": "1078",
+    "restante": "1122297.00",
+    "notas": "",
+    "productos": [
+      {
+        "cantidad": "1045",
+        "concepto": "",
+        "costo": "1075",
+        "importe": "1123375.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      }
+    ],
+    "folio": "NV-0050",
+    "fechaGuardado": "24/4/2026, 16:08:44"
+  },
+  {
+    "fecha": "2026-04-24",
+    "fecha_entrega": "",
+    "nombre": "",
+    "tel": "",
+    "correo": "",
+    "atiende": "",
+    "total": "",
+    "anticipo": "",
+    "restante": "",
+    "notas": "",
+    "productos": [
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": ""
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": ""
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": ""
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": ""
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": ""
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": ""
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": ""
+      }
+    ],
+    "folio": "NV-0051",
+    "fechaGuardado": "24/4/2026, 16:09:30"
+  },
+  {
+    "fecha": "2026-04-24",
+    "fecha_entrega": "",
+    "nombre": "",
+    "tel": "",
+    "correo": "",
+    "atiende": "",
+    "total": "",
+    "anticipo": "",
+    "restante": "",
+    "notas": "",
+    "productos": [
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": ""
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": ""
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": ""
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": ""
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": ""
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": ""
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": ""
+      }
+    ],
+    "folio": "NV-0052",
+    "fechaGuardado": "24/4/2026, 16:11:15"
+  },
+  {
+    "fecha": "2026-04-24",
+    "fecha_entrega": "",
+    "nombre": "",
+    "tel": "",
+    "correo": "",
+    "atiende": "",
+    "total": "",
+    "anticipo": "",
+    "restante": "",
+    "notas": "",
+    "productos": [
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": ""
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": ""
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": ""
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": ""
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": ""
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": ""
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": ""
+      }
+    ],
+    "folio": "NV-0053",
+    "fechaGuardado": "24/4/2026, 16:11:32"
+  },
+  {
+    "fecha": "2026-04-24",
+    "fecha_entrega": "",
+    "nombre": "",
+    "tel": "",
+    "correo": "",
+    "atiende": "",
+    "total": "",
+    "anticipo": "",
+    "restante": "",
+    "notas": "",
+    "productos": [
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": ""
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": ""
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": ""
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": ""
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": ""
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": ""
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": ""
+      }
+    ],
+    "folio": "NV-0054",
+    "fechaGuardado": "24/4/2026, 16:32:38"
+  }
+]

@@ -1,0 +1,224 @@
+@page {
+  size: letter;
+  margin: 0;
+}
+
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+.hoja {
+  width: 216mm;
+  height: 279mm;
+  display: flex;
+  flex-direction: column;
+}
+
+/* 🔒 MEDIA HOJA EXACTA */
+.nota {
+  height: 139.5mm;
+  box-sizing: border-box;
+  padding: 5mm 6mm;
+  overflow: hidden;
+  position: relative;
+  page-break-inside: avoid;
+  border-bottom: 1px dashed black;
+}
+
+/* 🔥 ENCABEZADO */
+.header {
+  display: grid;
+  grid-template-columns: 60px 1fr 120px;
+  align-items: center;
+  margin-bottom: 4px;
+}
+.logo {
+  font-size: 12px;
+}
+
+.titulos {
+  text-align: center;
+}
+.titulos h1 {
+  font-size: 18px;
+  margin: 0;
+}
+
+.titulos h2 {
+  font-size: 16px;
+  margin: 2px 0 5px 0;
+}
+
+.folio {
+  width: 20%;
+  text-align: center;
+  border: 2px solid black; /* más grueso */
+  padding: 4px 8px;
+  font-weight: bold;
+  font-size: 14px;
+}
+
+/* 🔥 TABLAS */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  table-layout: fixed;
+}
+
+td, th {
+  border: 1px solid black;
+  padding: 2px;
+  font-size: 11px;
+  height: 18px;
+}
+
+/* 🔥 TABLA PRODUCTOS */
+.tabla {
+  margin-top: 3px;
+}
+
+/* 🔒 CONTROL TEXTO */
+td {
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
+
+/* 🔥 BLOQUE NOTAS */
+.info {
+  font-size: 11px;
+  margin-top: 3px;
+}
+
+.notas {
+  height: 30px;
+  font-size: 11px;
+}
+
+/* 🔥 TOTALES */
+.totales {
+  width: 40%;
+  margin-left: auto;
+  margin-top: 3px;
+}
+
+/* 🔥 ORIGINAL / CLIENTE */
+.tipo {
+  position: absolute;
+  bottom: 4mm;
+  right: 6mm;
+  font-weight: bold;
+  font-size: 12px;
+}
+/* HEADER */
+.header {
+  display: flex;
+  align-items: center;
+  margin-bottom: 4px;
+}
+
+.logo {
+  width: 20%;
+  font-size: 12px;
+}
+
+.titulos {
+  width: 60%;
+  text-align: center;
+}
+
+.empresa {
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.sub {
+  font-size: 13px;
+}
+
+.folio {
+  width: 20%;
+  text-align: right;
+  border: 1px solid black;
+  padding: 2px 6px;
+  font-weight: bold;
+}
+
+/* DATOS */
+.datos td {
+  font-size: 11px;
+}
+
+/* TABLA PRODUCTOS */
+.tabla th {
+  background: #f2f2f2;
+}
+
+/* BLOQUE INFERIOR */
+.bloque-inferior {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 4px;
+}
+
+/* NOTAS */
+.notas {
+  width: 55%;
+}
+
+.titulo-notas {
+  font-size: 11px;
+  font-weight: bold;
+}
+
+.texto-notas {
+  font-size: 11px;
+  height: 30px;
+  overflow: hidden;
+}
+
+/* TOTALES */
+.totales {
+  width: 40%;
+  font-size: 11px;
+}
+.logo img {
+  width: 55px;
+  height: auto;
+}
+.folio {
+  position: absolute;
+  top: 5mm;
+  left: 6mm;
+  font-weight: bold;
+  font-size: 16px;
+  border: 2px solid black;
+  padding: 3px 8px;
+}
+.pendiente { border-left: 5px solid gray; }
+.diseno { border-left: 5px solid blue; }
+.autorizacion { border-left: 5px solid orange; }
+.produccion { border-left: 5px solid purple; }
+.finalizado { border-left: 5px solid green; }
+.entregado { border-left: 5px solid black; }
+
+.card {
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin: 10px;
+  border-radius: 8px;
+}
+
+.rojo {
+  border-left: 6px solid red;
+}
+
+.amarillo {
+  border-left: 6px solid orange;
+}
+.footer {
+  font-size: 10px;
+  margin-top: 8px;
+  text-align: left;
+}

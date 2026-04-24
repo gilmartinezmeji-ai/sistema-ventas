@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<title>Sistema de Ventas</title>
+
+<style>
+body { font-family: Arial; padding: 20px; }
+input, select { margin: 3px; padding: 5px; }
+
+table { border-collapse: collapse; width: 100%; margin-top: 10px; }
+td, th { border: 1px solid #000; padding: 5px; text-align: center; }
+
+button { padding: 10px; margin-top: 10px; }
+</style>
+
+</head>
+<body>
+
+<h2>IMPRECIÓN DIGITAL FINE</h2>
+
+<form id="formVenta">
+
+Folio: <input type="text" id="folio" readonly><br>
+Fecha: <input type="date" id="fecha"><br>
+
+Nombre: <input type="text" id="nombre"><br>
+Tel: <input type="text" id="tel"><br>
+Correo: <input type="text" id="correo"><br>
+Atiende: <input type="text" id="atiende"><br>
+
+<h3>Productos</h3>
+
+<table>
+<tr>
+<th>Cant</th>
+<th>Concepto</th>
+<th>Costo</th>
+<th>Importe</th>
+</tr>
+
+
+<tbody id="tablaProductos"></tbody>
+</table>
+
+Total: <input type="text" id="total" readonly><br>
+Anticipo: <input type="number" id="anticipo"><br>
+Restante: <input type="text" id="restante" readonly><br>
+Fecha entrega: <label>Fecha de entrega:</label>
+<input type="date" id="fecha_entrega">
+
+
+
+Método de pago:
+<select id="pago">
+<option>Efectivo</option>
+<option>Transferencia</option>
+<option>Tarjeta</option>
+</select><br>
+
+Notas:<br>
+<textarea id="notas" rows="3" cols="40"></textarea><br>
+
+<button type="button" onclick="generarNota()">Imprimir</button>
+
+</form>
+
+<script src="templates/notaBase.js"></script>
+<script src="js/app.js"></script>
+
+</body>
+</html>

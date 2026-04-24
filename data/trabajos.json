@@ -1,0 +1,2834 @@
+[
+  {
+    "id": "NV-0006",
+    "cliente": "kjhgfd",
+    "telefono": "oiujhgf",
+    "productos": [
+      {
+        "cantidad": "50",
+        "concepto": "kj",
+        "costo": "72",
+        "importe": "3600.00"
+      },
+      {
+        "cantidad": "50",
+        "concepto": "uy",
+        "costo": "78",
+        "importe": "3900.00"
+      },
+      {
+        "cantidad": "50",
+        "concepto": "iuyt",
+        "costo": "65",
+        "importe": "3250.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      }
+    ],
+    "descripcion": "Trabajo desde venta",
+    "fecha_creacion": "2026-04-17",
+    "fecha_entrega": "2026-04-17",
+    "hora_entrega": "18:00",
+    "estado": "finalizado",
+    "prioridad": "media",
+    "avance": 100,
+    "notas": "987uy6",
+    "responsable": "Beto",
+    "fecha_actualizacion": "2026-04-23"
+  },
+  {
+    "id": "NV-0008",
+    "cliente": "GILBERTO",
+    "telefono": "",
+    "productos": [
+      {
+        "cantidad": "10",
+        "concepto": "10",
+        "costo": "10",
+        "importe": "100.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      }
+    ],
+    "descripcion": "Trabajo desde venta",
+    "fecha_creacion": "2026-04-17",
+    "fecha_entrega": "2026-04-17",
+    "hora_entrega": "18:00",
+    "estado": "entregado",
+    "prioridad": "media",
+    "avance": 100,
+    "notas": "",
+    "responsable": "Beto",
+    "fecha_actualizacion": "2026-04-17"
+  },
+  {
+    "id": "NV-0009",
+    "cliente": "",
+    "telefono": "",
+    "productos": [
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": ""
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": ""
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": ""
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": ""
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": ""
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": ""
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": ""
+      }
+    ],
+    "descripcion": "Trabajo desde venta",
+    "fecha_creacion": "2026-04-17",
+    "fecha_entrega": "2026-04-17",
+    "hora_entrega": "18:00",
+    "estado": "entregado",
+    "prioridad": "media",
+    "avance": 100,
+    "notas": "",
+    "responsable": "Beto",
+    "fecha_actualizacion": "2026-04-17"
+  },
+  {
+    "id": "NV-0010",
+    "cliente": "hola",
+    "telefono": "",
+    "productos": [
+      {
+        "cantidad": "10",
+        "concepto": "lonAS",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      }
+    ],
+    "descripcion": "Trabajo desde venta",
+    "fecha_creacion": "2026-04-17",
+    "fecha_entrega": "2026-04-17",
+    "hora_entrega": "18:00",
+    "estado": "entregado",
+    "prioridad": "media",
+    "avance": 100,
+    "notas": "",
+    "responsable": "Beto",
+    "fecha_actualizacion": "2026-04-17"
+  },
+  {
+    "id": "NV-0011",
+    "cliente": "hola",
+    "telefono": "",
+    "productos": [
+      {
+        "cantidad": "10",
+        "concepto": "lonAS",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      }
+    ],
+    "descripcion": "Trabajo desde venta",
+    "fecha_creacion": "2026-04-17",
+    "fecha_entrega": "2026-04-17",
+    "hora_entrega": "18:00",
+    "estado": "entregado",
+    "prioridad": "media",
+    "avance": 100,
+    "notas": "",
+    "responsable": "Beto",
+    "fecha_actualizacion": "2026-04-17"
+  },
+  {
+    "id": "NV-0012",
+    "cliente": "GIL",
+    "telefono": "412002455",
+    "productos": [
+      {
+        "cantidad": "50",
+        "concepto": "LONAS 1X2",
+        "costo": "50",
+        "importe": "2500.00"
+      },
+      {
+        "cantidad": "75",
+        "concepto": "ADESIVOS ",
+        "costo": "30",
+        "importe": "2250.00"
+      },
+      {
+        "cantidad": "10",
+        "concepto": "PULCERAS",
+        "costo": "7",
+        "importe": "70.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      }
+    ],
+    "descripcion": "Trabajo desde venta",
+    "fecha_creacion": "2026-04-17",
+    "fecha_entrega": "2026-04-17",
+    "hora_entrega": "18:00",
+    "estado": "entregado",
+    "prioridad": "media",
+    "avance": 100,
+    "notas": "MANDA INFO WHATS ",
+    "responsable": "Beto",
+    "fecha_actualizacion": "2026-04-17"
+  },
+  {
+    "id": "NV-0013",
+    "cliente": "t7lk",
+    "telefono": "",
+    "productos": [
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      }
+    ],
+    "descripcion": "Trabajo desde venta",
+    "fecha_creacion": "2026-04-17",
+    "fecha_entrega": "2026-04-17",
+    "hora_entrega": "18:00",
+    "estado": "entregado",
+    "prioridad": "media",
+    "avance": 100,
+    "notas": "",
+    "responsable": "Beto",
+    "fecha_actualizacion": "2026-04-17"
+  },
+  {
+    "id": "NV-0014",
+    "cliente": "t7lk",
+    "telefono": "",
+    "productos": [
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      }
+    ],
+    "descripcion": "Trabajo desde venta",
+    "fecha_creacion": "2026-04-17",
+    "fecha_entrega": "2026-04-17",
+    "hora_entrega": "18:00",
+    "estado": "entregado",
+    "prioridad": "media",
+    "avance": 100,
+    "notas": "",
+    "responsable": "Beto",
+    "fecha_actualizacion": "2026-04-17"
+  },
+  {
+    "id": "NV-0015",
+    "cliente": "GILBERTO",
+    "telefono": "",
+    "productos": [
+      {
+        "cantidad": "10",
+        "concepto": "10",
+        "costo": "10",
+        "importe": "100.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      }
+    ],
+    "descripcion": "Trabajo desde venta",
+    "fecha_creacion": "2026-04-17",
+    "fecha_entrega": "2026-04-17",
+    "hora_entrega": "18:00",
+    "estado": "finalizado",
+    "prioridad": "media",
+    "avance": 100,
+    "notas": "",
+    "responsable": "Beto",
+    "fecha_actualizacion": "2026-04-23"
+  },
+  {
+    "id": "NV-0016",
+    "cliente": "ENRIQUE",
+    "telefono": "4431648225",
+    "productos": [
+      {
+        "cantidad": "4",
+        "concepto": "LONAS ",
+        "costo": "223",
+        "importe": "892.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      }
+    ],
+    "descripcion": "Trabajo desde venta",
+    "fecha_creacion": "2026-04-17",
+    "fecha_entrega": "2026-04-17",
+    "hora_entrega": "18:00",
+    "estado": "entregado",
+    "prioridad": "media",
+    "avance": 0,
+    "notas": "MANDA DISEÑO WHATS ",
+    "responsable": "Beto",
+    "fecha_actualizacion": "2026-04-23"
+  },
+  {
+    "id": "NV-0017",
+    "cliente": "GILBERTO",
+    "telefono": "",
+    "productos": [
+      {
+        "cantidad": "10",
+        "concepto": "10",
+        "costo": "10",
+        "importe": "100.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      }
+    ],
+    "descripcion": "Trabajo desde venta",
+    "fecha_creacion": "2026-04-20",
+    "fecha_entrega": "2026-04-20",
+    "hora_entrega": "18:00",
+    "estado": "entregado",
+    "prioridad": "media",
+    "avance": 0,
+    "notas": "",
+    "responsable": "Beto",
+    "fecha_actualizacion": "2026-04-23"
+  },
+  {
+    "id": "NV-0018",
+    "cliente": "GILO",
+    "telefono": "753",
+    "productos": [
+      {
+        "cantidad": "12",
+        "concepto": "HOJAS",
+        "costo": "20",
+        "importe": "240.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      }
+    ],
+    "descripcion": "Trabajo desde venta",
+    "fecha_creacion": "2026-04-20",
+    "fecha_entrega": "2026-04-20",
+    "hora_entrega": "18:00",
+    "estado": "entregado",
+    "prioridad": "media",
+    "avance": 0,
+    "notas": "",
+    "responsable": "Beto",
+    "fecha_actualizacion": "2026-04-23"
+  },
+  {
+    "id": "NV-0019",
+    "cliente": "sdfgh",
+    "telefono": "5454",
+    "productos": [
+      {
+        "cantidad": "10",
+        "concepto": "lona",
+        "costo": "79",
+        "importe": "790.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      }
+    ],
+    "descripcion": "Trabajo desde venta",
+    "fecha_creacion": "2026-04-20",
+    "fecha_entrega": "2026-04-20",
+    "hora_entrega": "18:00",
+    "estado": "entregado",
+    "prioridad": "media",
+    "avance": 0,
+    "notas": "",
+    "responsable": "Beto",
+    "fecha_actualizacion": "2026-04-23"
+  },
+  {
+    "id": "NV-0020",
+    "cliente": "gil",
+    "telefono": "5150",
+    "productos": [
+      {
+        "cantidad": "10",
+        "concepto": "conec",
+        "costo": "49",
+        "importe": "490.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      }
+    ],
+    "descripcion": "Trabajo desde venta",
+    "fecha_creacion": "2026-04-20",
+    "fecha_entrega": "2026-04-20",
+    "hora_entrega": "18:00",
+    "estado": "entregado",
+    "prioridad": "media",
+    "avance": 0,
+    "notas": "",
+    "responsable": "Beto",
+    "fecha_actualizacion": "2026-04-23"
+  },
+  {
+    "id": "NV-0021",
+    "cliente": "dfghj",
+    "telefono": "",
+    "productos": [
+      {
+        "cantidad": "550",
+        "concepto": "",
+        "costo": "49",
+        "importe": "26950.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      }
+    ],
+    "descripcion": "Trabajo desde venta",
+    "fecha_creacion": "2026-04-20",
+    "fecha_entrega": "2026-04-20",
+    "hora_entrega": "18:00",
+    "estado": "entregado",
+    "prioridad": "media",
+    "avance": 0,
+    "notas": "",
+    "responsable": "Beto",
+    "fecha_actualizacion": "2026-04-23"
+  },
+  {
+    "id": "NV-0022",
+    "cliente": "beto",
+    "telefono": "54115",
+    "productos": [
+      {
+        "cantidad": "550",
+        "concepto": "lonaas",
+        "costo": "49",
+        "importe": "26950.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      }
+    ],
+    "descripcion": "Trabajo desde venta",
+    "fecha_creacion": "2026-04-20",
+    "fecha_entrega": "2026-04-20",
+    "hora_entrega": "18:00",
+    "estado": "entregado",
+    "prioridad": "media",
+    "avance": 0,
+    "notas": "",
+    "responsable": "Beto",
+    "fecha_actualizacion": "2026-04-23"
+  },
+  {
+    "id": "NV-0023",
+    "cliente": "GILBERTO",
+    "telefono": "852",
+    "productos": [
+      {
+        "cantidad": "50",
+        "concepto": "con",
+        "costo": "11",
+        "importe": "550.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      }
+    ],
+    "descripcion": "Trabajo desde venta",
+    "fecha_creacion": "2026-04-20",
+    "fecha_entrega": "2026-04-20",
+    "hora_entrega": "18:00",
+    "estado": "entregado",
+    "prioridad": "media",
+    "avance": 0,
+    "notas": "",
+    "responsable": "Beto",
+    "fecha_actualizacion": "2026-04-23"
+  },
+  {
+    "id": "NV-0024",
+    "cliente": "gilo",
+    "telefono": "504",
+    "productos": [
+      {
+        "cantidad": "40",
+        "concepto": "",
+        "costo": "11",
+        "importe": "440.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      }
+    ],
+    "descripcion": "Trabajo desde venta",
+    "fecha_creacion": "2026-04-20",
+    "fecha_entrega": "2026-04-20",
+    "hora_entrega": "18:00",
+    "estado": "entregado",
+    "prioridad": "media",
+    "avance": 0,
+    "notas": "",
+    "responsable": "Beto",
+    "fecha_actualizacion": "2026-04-23"
+  },
+  {
+    "id": "NV-0025",
+    "cliente": "beto",
+    "telefono": "54115",
+    "productos": [
+      {
+        "cantidad": "550",
+        "concepto": "lonaas",
+        "costo": "49",
+        "importe": "26950.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      }
+    ],
+    "descripcion": "Trabajo desde venta",
+    "fecha_creacion": "2026-04-20",
+    "fecha_entrega": "2026-04-20",
+    "hora_entrega": "18:00",
+    "estado": "entregado",
+    "prioridad": "media",
+    "avance": 0,
+    "notas": "",
+    "responsable": "Beto",
+    "fecha_actualizacion": "2026-04-23"
+  },
+  {
+    "id": "NV-0026",
+    "cliente": "",
+    "telefono": "",
+    "productos": [
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": ""
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": ""
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": ""
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": ""
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": ""
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": ""
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": ""
+      }
+    ],
+    "descripcion": "Trabajo desde venta",
+    "fecha_creacion": "2026-04-20",
+    "fecha_entrega": "2026-04-20",
+    "hora_entrega": "18:00",
+    "estado": "entregado",
+    "prioridad": "media",
+    "avance": 0,
+    "notas": "",
+    "responsable": "Beto",
+    "fecha_actualizacion": "2026-04-23"
+  },
+  {
+    "id": "NV-0027",
+    "cliente": "juan peres",
+    "telefono": "54",
+    "productos": [
+      {
+        "cantidad": "20",
+        "concepto": "lonas",
+        "costo": "50",
+        "importe": "1000.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      }
+    ],
+    "descripcion": "Trabajo desde venta",
+    "fecha_creacion": "2026-04-23",
+    "fecha_entrega": "2026-04-23",
+    "hora_entrega": "18:00",
+    "estado": "entregado",
+    "prioridad": "media",
+    "avance": 0,
+    "notas": "manda whats",
+    "responsable": "Beto",
+    "fecha_actualizacion": "2026-04-23"
+  },
+  {
+    "id": "NV-0028",
+    "cliente": "pepito",
+    "telefono": "54",
+    "productos": [
+      {
+        "cantidad": "20",
+        "concepto": "lonas",
+        "costo": "50",
+        "importe": "1000.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      }
+    ],
+    "descripcion": "Trabajo desde venta",
+    "fecha_creacion": "2026-04-23",
+    "fecha_entrega": "2026-04-23",
+    "hora_entrega": "18:00",
+    "estado": "finalizado",
+    "prioridad": "media",
+    "avance": 0,
+    "notas": "manda whats",
+    "responsable": "Beto",
+    "fecha_actualizacion": "2026-04-23"
+  },
+  {
+    "id": "NV-0029",
+    "cliente": "pepito",
+    "telefono": "443 000 000",
+    "productos": [
+      {
+        "cantidad": "20",
+        "concepto": "uniformes ",
+        "costo": "350",
+        "importe": "7000.00"
+      },
+      {
+        "cantidad": "23",
+        "concepto": "playeras",
+        "costo": "250",
+        "importe": "5750.00"
+      },
+      {
+        "cantidad": "10",
+        "concepto": "playeras",
+        "costo": "200",
+        "importe": "2000.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      }
+    ],
+    "descripcion": "Trabajo desde venta",
+    "fecha_creacion": "2026-04-23",
+    "fecha_entrega": "2026-04-23",
+    "hora_entrega": "18:00",
+    "estado": "entregado",
+    "prioridad": "media",
+    "avance": 0,
+    "notas": "manda whats con diseño ",
+    "responsable": "Beto",
+    "fecha_actualizacion": "2026-04-23"
+  },
+  {
+    "id": "NV-0030",
+    "cliente": "juanito ",
+    "telefono": "443 000 000",
+    "productos": [
+      {
+        "cantidad": "20",
+        "concepto": "uniformes ",
+        "costo": "350",
+        "importe": "7000.00"
+      },
+      {
+        "cantidad": "23",
+        "concepto": "playeras",
+        "costo": "250",
+        "importe": "5750.00"
+      },
+      {
+        "cantidad": "10",
+        "concepto": "playeras",
+        "costo": "200",
+        "importe": "2000.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      }
+    ],
+    "descripcion": "Trabajo desde venta",
+    "fecha_creacion": "2026-04-23",
+    "fecha_entrega": "2026-04-23",
+    "hora_entrega": "18:00",
+    "estado": "entregado",
+    "prioridad": "media",
+    "avance": 0,
+    "notas": "manda whats con diseño ",
+    "responsable": "Beto",
+    "fecha_actualizacion": "2026-04-23"
+  },
+  {
+    "id": "NV-0031",
+    "cliente": "juanito nueva agenda",
+    "telefono": "443 000 000",
+    "productos": [
+      {
+        "cantidad": "20",
+        "concepto": "uniformes ",
+        "costo": "350",
+        "importe": "7000.00"
+      },
+      {
+        "cantidad": "23",
+        "concepto": "playeras",
+        "costo": "250",
+        "importe": "5750.00"
+      },
+      {
+        "cantidad": "10",
+        "concepto": "playeras",
+        "costo": "200",
+        "importe": "2000.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      }
+    ],
+    "descripcion": "Trabajo desde venta",
+    "fecha_creacion": "2026-04-23",
+    "fecha_entrega": "2026-04-23",
+    "hora_entrega": "18:00",
+    "estado": "finalizado",
+    "prioridad": "media",
+    "avance": 0,
+    "notas": "manda whats con diseño ",
+    "responsable": "Beto",
+    "fecha_actualizacion": "2026-04-23"
+  },
+  {
+    "id": "NV-0032",
+    "cliente": "provando pdf",
+    "telefono": "443 000 000",
+    "productos": [
+      {
+        "cantidad": "20",
+        "concepto": "uniformes ",
+        "costo": "350",
+        "importe": "7000.00"
+      },
+      {
+        "cantidad": "23",
+        "concepto": "playeras",
+        "costo": "250",
+        "importe": "5750.00"
+      },
+      {
+        "cantidad": "10",
+        "concepto": "playeras",
+        "costo": "200",
+        "importe": "2000.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      }
+    ],
+    "descripcion": "Trabajo desde venta",
+    "fecha_creacion": "2026-04-23",
+    "fecha_entrega": "2026-04-23",
+    "hora_entrega": "18:00",
+    "estado": "finalizado",
+    "prioridad": "media",
+    "avance": 0,
+    "notas": "manda whats con diseño ",
+    "responsable": "Beto",
+    "fecha_actualizacion": "2026-04-23"
+  },
+  {
+    "id": "NV-0033",
+    "cliente": "prov en",
+    "telefono": "443 000 000",
+    "productos": [
+      {
+        "cantidad": "20",
+        "concepto": "uniformes ",
+        "costo": "350",
+        "importe": "7000.00"
+      },
+      {
+        "cantidad": "23",
+        "concepto": "playeras",
+        "costo": "250",
+        "importe": "5750.00"
+      },
+      {
+        "cantidad": "10",
+        "concepto": "playeras",
+        "costo": "200",
+        "importe": "2000.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      }
+    ],
+    "descripcion": "Trabajo desde venta",
+    "fecha_creacion": "2026-04-23",
+    "fecha_entrega": "2026-04-23",
+    "hora_entrega": "18:00",
+    "estado": "finalizado",
+    "prioridad": "media",
+    "avance": 0,
+    "notas": "manda whats con diseño ",
+    "responsable": "Beto",
+    "fecha_actualizacion": "2026-04-23"
+  },
+  {
+    "id": "NV-0034",
+    "cliente": "prov en2",
+    "telefono": "443 000 000",
+    "productos": [
+      {
+        "cantidad": "20",
+        "concepto": "uniformes ",
+        "costo": "350",
+        "importe": "7000.00"
+      },
+      {
+        "cantidad": "23",
+        "concepto": "playeras",
+        "costo": "250",
+        "importe": "5750.00"
+      },
+      {
+        "cantidad": "10",
+        "concepto": "playeras",
+        "costo": "200",
+        "importe": "2000.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      }
+    ],
+    "descripcion": "Trabajo desde venta",
+    "fecha_creacion": "2026-04-23",
+    "fecha_entrega": "2026-04-23",
+    "hora_entrega": "18:00",
+    "estado": "finalizado",
+    "prioridad": "media",
+    "avance": 0,
+    "notas": "manda whats con diseño ",
+    "responsable": "Beto",
+    "fecha_actualizacion": "2026-04-24"
+  },
+  {
+    "id": "NV-0035",
+    "cliente": "fechen",
+    "telefono": "hgfds",
+    "productos": [
+      {
+        "cantidad": "10",
+        "concepto": "10",
+        "costo": "10",
+        "importe": "100.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      }
+    ],
+    "descripcion": "Trabajo desde venta",
+    "fecha_creacion": "2026-04-23",
+    "fecha_entrega": "2026-04-23",
+    "hora_entrega": "18:00",
+    "estado": "finalizado",
+    "prioridad": "media",
+    "avance": 0,
+    "notas": "hygtfrd",
+    "responsable": "Beto",
+    "fecha_actualizacion": "2026-04-24"
+  },
+  {
+    "id": "NV-0036",
+    "cliente": "fecha 26",
+    "telefono": "",
+    "productos": [
+      {
+        "cantidad": "10",
+        "concepto": "26 entrega",
+        "costo": "50",
+        "importe": "500.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      }
+    ],
+    "descripcion": "Trabajo desde venta",
+    "fecha_creacion": "2026-04-23",
+    "fecha_entrega": "2026-04-23",
+    "hora_entrega": "18:00",
+    "estado": "finalizado",
+    "prioridad": "media",
+    "avance": 0,
+    "notas": "26",
+    "responsable": "Beto",
+    "fecha_actualizacion": "2026-04-24"
+  },
+  {
+    "id": "NV-0037",
+    "cliente": "p",
+    "telefono": "",
+    "productos": [
+      {
+        "cantidad": "26",
+        "concepto": "dia 26",
+        "costo": "26",
+        "importe": "676.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      }
+    ],
+    "descripcion": "Trabajo desde venta",
+    "fecha_creacion": "2026-04-23",
+    "fecha_entrega": "2026-04-23",
+    "hora_entrega": "18:00",
+    "estado": "finalizado",
+    "prioridad": "media",
+    "avance": 0,
+    "notas": "dia 26",
+    "responsable": "Beto",
+    "fecha_actualizacion": "2026-04-24"
+  },
+  {
+    "id": "NV-0038",
+    "cliente": "ti26",
+    "telefono": "",
+    "productos": [
+      {
+        "cantidad": "20",
+        "concepto": "",
+        "costo": "26",
+        "importe": "520.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      }
+    ],
+    "descripcion": "Trabajo desde venta",
+    "fecha_creacion": "2026-04-23",
+    "fecha_entrega": "2026-04-23",
+    "hora_entrega": "18:00",
+    "estado": "finalizado",
+    "prioridad": "media",
+    "avance": 0,
+    "notas": "",
+    "responsable": "Beto",
+    "fecha_actualizacion": "2026-04-24"
+  },
+  {
+    "id": "NV-0039",
+    "cliente": "",
+    "telefono": "",
+    "productos": [
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      }
+    ],
+    "descripcion": "Trabajo desde venta",
+    "fecha_creacion": "2026-04-23",
+    "fecha_entrega": "2026-04-23",
+    "hora_entrega": "18:00",
+    "estado": "finalizado",
+    "prioridad": "media",
+    "avance": 0,
+    "notas": "",
+    "responsable": "Beto",
+    "fecha_actualizacion": "2026-04-24"
+  },
+  {
+    "id": "NV-0040",
+    "cliente": "aver 26",
+    "telefono": "4443",
+    "productos": [
+      {
+        "cantidad": "26",
+        "concepto": "tienen 26",
+        "costo": "26",
+        "importe": "676.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      }
+    ],
+    "descripcion": "Trabajo desde venta",
+    "fecha_creacion": "2026-04-23",
+    "fecha_entrega": "2026-04-23",
+    "hora_entrega": "18:00",
+    "estado": "finalizado",
+    "prioridad": "media",
+    "avance": 0,
+    "notas": "",
+    "responsable": "Beto",
+    "fecha_actualizacion": "2026-04-24"
+  },
+  {
+    "id": "NV-0041",
+    "cliente": "juan enrique ",
+    "telefono": "440 6502 059",
+    "productos": [
+      {
+        "cantidad": "50",
+        "concepto": "carteloes",
+        "costo": "30",
+        "importe": "1500.00"
+      },
+      {
+        "cantidad": "1",
+        "concepto": "diseño",
+        "costo": "100",
+        "importe": "100.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      }
+    ],
+    "descripcion": "Trabajo desde venta",
+    "fecha_creacion": "2026-04-24",
+    "fecha_entrega": "2026-04-24",
+    "hora_entrega": "18:00",
+    "estado": "pendiente",
+    "prioridad": "media",
+    "avance": 0,
+    "notas": "colores rojso ",
+    "responsable": "Beto",
+    "fecha_actualizacion": "2026-04-24"
+  },
+  {
+    "id": "NV-0042",
+    "cliente": "GILBERTO",
+    "telefono": "",
+    "productos": [
+      {
+        "cantidad": "10",
+        "concepto": "10",
+        "costo": "01",
+        "importe": "10.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      }
+    ],
+    "descripcion": "Trabajo desde venta",
+    "fecha_creacion": "2026-04-24",
+    "fecha_entrega": "2026-04-24",
+    "hora_entrega": "18:00",
+    "estado": "pendiente",
+    "prioridad": "media",
+    "avance": 0,
+    "notas": "",
+    "responsable": "Beto",
+    "fecha_actualizacion": "2026-04-24"
+  },
+  {
+    "id": "NV-0043",
+    "cliente": "GILBERTO",
+    "telefono": "563435",
+    "productos": [
+      {
+        "cantidad": "7853",
+        "concepto": "7853",
+        "costo": "7853",
+        "importe": "61669609.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      }
+    ],
+    "descripcion": "Trabajo desde venta",
+    "fecha_creacion": "2026-04-24",
+    "fecha_entrega": "2026-04-24",
+    "hora_entrega": "18:00",
+    "estado": "pendiente",
+    "prioridad": "media",
+    "avance": 0,
+    "notas": "",
+    "responsable": "Beto",
+    "fecha_actualizacion": "2026-04-24"
+  },
+  {
+    "id": "NV-0044",
+    "cliente": "",
+    "telefono": "",
+    "productos": [
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": ""
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": ""
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": ""
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": ""
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": ""
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": ""
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": ""
+      }
+    ],
+    "descripcion": "Trabajo desde venta",
+    "fecha_creacion": "2026-04-24",
+    "fecha_entrega": "2026-04-24",
+    "hora_entrega": "18:00",
+    "estado": "pendiente",
+    "prioridad": "media",
+    "avance": 0,
+    "notas": "",
+    "responsable": "Beto",
+    "fecha_actualizacion": "2026-04-24"
+  },
+  {
+    "id": "NV-0045",
+    "cliente": "",
+    "telefono": "",
+    "productos": [
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": ""
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": ""
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": ""
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": ""
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": ""
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": ""
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": ""
+      }
+    ],
+    "descripcion": "Trabajo desde venta",
+    "fecha_creacion": "2026-04-24",
+    "fecha_entrega": "2026-04-24",
+    "hora_entrega": "18:00",
+    "estado": "pendiente",
+    "prioridad": "media",
+    "avance": 0,
+    "notas": "",
+    "responsable": "Beto",
+    "fecha_actualizacion": "2026-04-24"
+  },
+  {
+    "id": "NV-0046",
+    "cliente": "",
+    "telefono": "",
+    "productos": [
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": ""
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": ""
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": ""
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": ""
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": ""
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": ""
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": ""
+      }
+    ],
+    "descripcion": "Trabajo desde venta",
+    "fecha_creacion": "2026-04-24",
+    "fecha_entrega": "2026-04-24",
+    "hora_entrega": "18:00",
+    "estado": "pendiente",
+    "prioridad": "media",
+    "avance": 0,
+    "notas": "",
+    "responsable": "Beto",
+    "fecha_actualizacion": "2026-04-24"
+  },
+  {
+    "id": "NV-0047",
+    "cliente": "",
+    "telefono": "",
+    "productos": [
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": ""
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": ""
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": ""
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": ""
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": ""
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": ""
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": ""
+      }
+    ],
+    "descripcion": "Trabajo desde venta",
+    "fecha_creacion": "2026-04-24",
+    "fecha_entrega": "2026-04-24",
+    "hora_entrega": "18:00",
+    "estado": "pendiente",
+    "prioridad": "media",
+    "avance": 0,
+    "notas": "",
+    "responsable": "Beto",
+    "fecha_actualizacion": "2026-04-24"
+  },
+  {
+    "id": "NV-0048",
+    "cliente": "",
+    "telefono": "",
+    "productos": [
+      {
+        "cantidad": "10",
+        "concepto": "",
+        "costo": "10",
+        "importe": "100.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      }
+    ],
+    "descripcion": "Trabajo desde venta",
+    "fecha_creacion": "2026-04-24",
+    "fecha_entrega": "2026-04-24",
+    "hora_entrega": "18:00",
+    "estado": "pendiente",
+    "prioridad": "media",
+    "avance": 0,
+    "notas": "",
+    "responsable": "Beto",
+    "fecha_actualizacion": "2026-04-24"
+  },
+  {
+    "id": "NV-0049",
+    "cliente": "",
+    "telefono": "",
+    "productos": [
+      {
+        "cantidad": "1045",
+        "concepto": "",
+        "costo": "1075",
+        "importe": "1123375.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      }
+    ],
+    "descripcion": "Trabajo desde venta",
+    "fecha_creacion": "2026-04-24",
+    "fecha_entrega": "2026-04-24",
+    "hora_entrega": "18:00",
+    "estado": "pendiente",
+    "prioridad": "media",
+    "avance": 0,
+    "notas": "",
+    "responsable": "Beto",
+    "fecha_actualizacion": "2026-04-24"
+  },
+  {
+    "id": "NV-0050",
+    "cliente": "",
+    "telefono": "",
+    "productos": [
+      {
+        "cantidad": "1045",
+        "concepto": "",
+        "costo": "1075",
+        "importe": "1123375.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      }
+    ],
+    "descripcion": "Trabajo desde venta",
+    "fecha_creacion": "2026-04-24",
+    "fecha_entrega": "2026-04-24",
+    "hora_entrega": "18:00",
+    "estado": "pendiente",
+    "prioridad": "media",
+    "avance": 0,
+    "notas": "",
+    "responsable": "Beto",
+    "fecha_actualizacion": "2026-04-24"
+  },
+  {
+    "id": "NV-0051",
+    "cliente": "",
+    "telefono": "",
+    "productos": [
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": ""
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": ""
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": ""
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": ""
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": ""
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": ""
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": ""
+      }
+    ],
+    "descripcion": "Trabajo desde venta",
+    "fecha_creacion": "2026-04-24",
+    "fecha_entrega": "2026-04-24",
+    "hora_entrega": "18:00",
+    "estado": "pendiente",
+    "prioridad": "media",
+    "avance": 0,
+    "notas": "",
+    "responsable": "Beto",
+    "fecha_actualizacion": "2026-04-24"
+  },
+  {
+    "id": "NV-0052",
+    "cliente": "",
+    "telefono": "",
+    "productos": [
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": ""
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": ""
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": ""
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": ""
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": ""
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": ""
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": ""
+      }
+    ],
+    "descripcion": "Trabajo desde venta",
+    "fecha_creacion": "2026-04-24",
+    "fecha_entrega": "2026-04-24",
+    "hora_entrega": "18:00",
+    "estado": "pendiente",
+    "prioridad": "media",
+    "avance": 0,
+    "notas": "",
+    "responsable": "Beto",
+    "fecha_actualizacion": "2026-04-24"
+  },
+  {
+    "id": "NV-0053",
+    "cliente": "",
+    "telefono": "",
+    "productos": [
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": ""
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": ""
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": ""
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": ""
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": ""
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": ""
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": ""
+      }
+    ],
+    "descripcion": "Trabajo desde venta",
+    "fecha_creacion": "2026-04-24",
+    "fecha_entrega": "2026-04-24",
+    "hora_entrega": "18:00",
+    "estado": "pendiente",
+    "prioridad": "media",
+    "avance": 0,
+    "notas": "",
+    "responsable": "Beto",
+    "fecha_actualizacion": "2026-04-24"
+  },
+  {
+    "id": "NV-0054",
+    "cliente": "",
+    "telefono": "",
+    "productos": [
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": ""
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": ""
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": ""
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": ""
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": ""
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": ""
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": ""
+      }
+    ],
+    "descripcion": "Trabajo desde venta",
+    "fecha_creacion": "2026-04-24",
+    "fecha_entrega": "2026-04-24",
+    "hora_entrega": "18:00",
+    "estado": "pendiente",
+    "prioridad": "media",
+    "avance": 0,
+    "notas": "",
+    "responsable": "Beto",
+    "fecha_actualizacion": "2026-04-24"
+  }
+]

@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<title>Agenda</title>
+
+<style>
+body {
+  font-family: Arial;
+  background: #111;
+  color: white;
+  padding: 20px;
+}
+
+h2 {
+  border-bottom: 2px solid #444;
+  cursor: pointer;
+}
+
+.card {
+  background: #1e1e1e;
+  padding: 10px;
+  margin: 10px 0;
+  border-radius: 8px;
+}
+
+/* 🔥 ALERTAS */
+.rojo { border-left: 6px solid red; }
+.amarillo { border-left: 6px solid orange; }
+
+/* botones */
+button {
+  margin-top: 5px;
+  padding: 5px 10px;
+  cursor: pointer;
+}
+
+/* buscador */
+input {
+  margin: 10px 0;
+  padding: 5px;
+  width: 200px;
+}
+</style>
+
+</head>
+<body>
+
+<h1>📅 AGENDA</h1>
+
+<!-- 🔥 BOTÓN PDF -->
+<button onclick="generarPDF()">📄 Generar PDF Pendientes</button>
+
+<!-- 🔥 PENDIENTES -->
+<h2>📌 PENDIENTES</h2>
+<div id="pendientes"></div>
+
+<!-- 🔽 TERMINADOS (COLAPSABLE) -->
+<h2 onclick="toggleTerminados()">▶ TERMINADOS</h2>
+
+<input 
+  type="text" 
+  placeholder="Buscar en terminados..." 
+  onkeyup="buscarTerminados(this.value)"
+>
+
+<div id="terminadosContainer" style="display:none;">
+  <div id="terminados"></div>
+</div>
+
+<script src="js/agenda.js"></script>
+
+</body>
+</html>

@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+<meta charset="UTF-8">
+
+<style>
+@page {
+  size: letter;
+  margin: 0;
+}
+
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+/* 🔒 HOJA COMPLETA */
+.hoja {
+  width: 216mm;
+  height: 279mm;
+  display: flex;
+  flex-direction: column;
+}
+
+/* 🔓 MEDIA CARTA (SIN BLOQUEO) */
+.nota {
+  height: 139.5mm;
+  box-sizing: border-box;
+  padding: 5mm 6mm;
+  /* ❌ overflow: hidden;  ← ELIMINADO */
+  position: relative;
+  page-break-inside: avoid;
+  border-bottom: 1px dashed black;
+}
+
+/* 🔥 TABLAS */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  table-layout: fixed;
+}
+
+td, th {
+  border: 1px solid black;
+  padding: 2px;
+  font-size: 11px;
+  height: 18px;
+}
+
+/* 🔥 CONTROL TEXTO */
+td {
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
+
+/* 🔥 TITULO */
+h2 {
+  text-align: center;
+  margin: 3px 0;
+}
+
+/* 🔥 TABLA PRODUCTOS (un poco más chica para dar espacio abajo) */
+.tabla {
+  height: 150px;
+}
+
+/* 🔥 TOTALES */
+.totales {
+  width: 40%;
+  margin-left: auto;
+  margin-top: 3px;
+}
+
+/* 🔥 ORIGINAL / CLIENTE */
+.tipo {
+  position: absolute;
+  bottom: 4mm;
+  right: 6mm;
+  font-weight: bold;
+  font-size: 12px;
+}
+</style>
+
+</head>
+
+<body>
+
+<div class="hoja">
+
+  <div class="nota">
+
+```
+<!-- 🔥 FOLIO -->
+<div class="folio">FOLIO: {{folio}}</div>
+
+{{contenido}}
+
+<div class="tipo">ORIGINAL</div>
+```
+
+  </div>
+
+  <div class="nota">
+
+```
+<!-- 🔥 FOLIO -->
+<div class="folio">FOLIO: {{folio}}</div>
+
+{{contenido}}
+
+<div class="tipo">COPIA</div>
+```
+
+  </div>
+
+</div>
+
+</body>
+</html>

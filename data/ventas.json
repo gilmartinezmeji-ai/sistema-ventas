@@ -1,0 +1,230 @@
+[
+  {
+    "folio": "NV-0001",
+    "fecha": "2026-04-14",
+    "nombre": "hgfd",
+    "tel": "5rg",
+    "correo": "thn",
+    "atiende": "tgn",
+    "total": "144.00",
+    "anticipo": "12",
+    "restante": "132.00",
+    "notas": "",
+    "productos": [
+      {
+        "cantidad": "12",
+        "concepto": "12",
+        "costo": "12",
+        "importe": "144.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      }
+    ],
+    "fechaGuardado": "14/4/2026, 17:02:15"
+  },
+  {
+    "folio": "NV-0002",
+    "fecha": "2026-04-14",
+    "nombre": "",
+    "tel": "",
+    "correo": "",
+    "atiende": "",
+    "total": "15903168.00",
+    "anticipo": "",
+    "restante": "15903168.00",
+    "notas": "",
+    "productos": [
+      {
+        "cantidad": "23456",
+        "concepto": "",
+        "costo": "678",
+        "importe": "15903168.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      }
+    ],
+    "fechaGuardado": "14/4/2026, 17:12:59"
+  },
+  {
+    "folio": "NV-0006",
+    "fecha": "2026-04-14",
+    "nombre": "hgfd",
+    "tel": "gfds",
+    "correo": "gfds",
+    "atiende": "fds",
+    "total": "50.00",
+    "anticipo": "45",
+    "restante": "5.00",
+    "notas": "",
+    "productos": [
+      {
+        "cantidad": "50",
+        "concepto": "",
+        "costo": "1",
+        "importe": "50.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": "0.00"
+      }
+    ],
+    "fechaGuardado": "14/4/2026, 17:35:06"
+  },
+  {
+    "folio": "NV-0006",
+    "fecha": "2026-04-14",
+    "nombre": "",
+    "tel": "",
+    "correo": "",
+    "atiende": "",
+    "total": "",
+    "anticipo": "",
+    "restante": "",
+    "notas": "",
+    "productos": [
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": ""
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": ""
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": ""
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": ""
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": ""
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": ""
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": ""
+      }
+    ],
+    "fechaGuardado": "14/4/2026, 17:56:12"
+  }
+]
