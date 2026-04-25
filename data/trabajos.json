@@ -2889,5 +2889,64 @@
     "notas": "",
     "responsable": "Beto",
     "fecha_actualizacion": "2026-04-25"
+  },
+  {
+    "id": "NV-0056",
+    "cliente": "",
+    "telefono": "",
+    "productos": [
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": ""
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": ""
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": ""
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": ""
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": ""
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": ""
+      },
+      {
+        "cantidad": "",
+        "concepto": "",
+        "costo": "",
+        "importe": ""
+      }
+    ],
+    "descripcion": "Trabajo desde venta",
+    "fecha_creacion": "2026-04-25",
+    "fecha_entrega": "2026-04-25",
+    "hora_entrega": "18:00",
+    "estado": "pendiente",
+    "prioridad": "media",
+    "avance": 0,
+    "notas": "",
+    "responsable": "Beto",
+    "fecha_actualizacion": "2026-04-25"
   }
 ]

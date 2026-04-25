@@ -267,21 +267,27 @@ app.put("/api/trabajos/:id", (req, res) => {
 // =============================
 // 🚀 SERVIDOR
 // =============================
-app.use(express.static("public"));
+// =============================
+// 🚀 SERVIDOR
+// =============================
 
-// 🔥 ESTO ES LA CLAVE
-// 🔥 PRIMERO esto
+// 🔥 PRIMERO la lógica
 app.get("/", (req, res) => {
   const host = req.headers.host;
 
-  // 🔥 SI ES RENDER
   if (host.includes("onrender.com")) {
     return res.sendFile(path.join(__dirname, "public", "agenda.html"));
   }
 
-  // 🔧 SI ES LOCAL
   return res.sendFile(path.join(__dirname, "public", "index.html"));
 });
 
-// 🔥 DESPUÉS static
+// 🔥 DESPUÉS static (solo UNA vez)
 app.use(express.static("public"));
+
+// 🔥 LISTEN (NO LO BORRES)
+const PORT = process.env.PORT || 3000;
+
+app.listen(PORT, '0.0.0.0', () => {
+  console.log("Servidor corriendo en puerto", PORT);
+});
