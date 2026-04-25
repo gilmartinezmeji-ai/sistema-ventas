@@ -268,12 +268,10 @@ app.put("/api/trabajos/:id", (req, res) => {
 app.use(express.static("public"));
 
 // 🔥 ESTO ES LA CLAVE
+// 🔥 PRIMERO esto
 app.get("/", (req, res) => {
   res.sendFile(path.join(__dirname, "public", "agenda.html"));
 });
 
-const PORT = process.env.PORT || 3000;
-
-app.listen(PORT, '0.0.0.0', () => {
-  console.log("Servidor corriendo en puerto", PORT);
-});
+// 🔥 DESPUÉS static
+app.use(express.static("public"));
