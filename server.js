@@ -13,7 +13,7 @@ const app = express();
 // =============================
 app.use(cors());
 app.use(express.json());
-app.use(express.static("public"));
+
 app.use("/pdfs", express.static(path.join(__dirname, "pdfs")));
 
 // =============================
@@ -283,7 +283,7 @@ app.get("/", (req, res) => {
 });
 
 // 🔥 DESPUÉS static (solo UNA vez)
-app.use(express.static("public"));
+app.use(express.static("public" { index: false }));));
 
 // 🔥 LISTEN (NO LO BORRES)
 const PORT = process.env.PORT || 3000;
