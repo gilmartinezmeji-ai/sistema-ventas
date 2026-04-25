@@ -5,7 +5,7 @@ const fs = require("fs");
 const path = require("path");
 
 console.log("🔥 INICIANDO SERVER...");
-
+console.log("🔥 PASO 1 OK");
 const app = express();
 
 // =============================
@@ -21,6 +21,7 @@ app.use("/pdfs", express.static(path.join(__dirname, "pdfs")));
 // =============================
 const FILE_VENTAS = "ventas.json";
 const FILE_TRABAJOS = "./data/trabajos.json";
+
 
 // =============================
 // 🧾 FUNCIONES VENTAS
@@ -72,6 +73,7 @@ function generarFolio(ventas) {
 
   return "NV-" + String(nuevo).padStart(4, "0");
 }
+
 // =============================
 // 🧾 GENERAR PDF
 // =============================
@@ -182,7 +184,7 @@ Una vez autorizada la impresión No hay Cambios ni Devoluciones. ===
     res.status(500).json({ error: error.message });
   }
 });
-
+console.log("🔥 PASO 2 OK");
 // =============================
 // 💾 GUARDAR VENTA + TRABAJO
 // =============================
@@ -270,7 +272,15 @@ app.use(express.static("public"));
 // 🔥 ESTO ES LA CLAVE
 // 🔥 PRIMERO esto
 app.get("/", (req, res) => {
-  res.sendFile(path.join(__dirname, "public", "agenda.html"));
+  const host = req.headers.host;
+
+  // 🔥 SI ES RENDER
+  if (host.includes("onrender.com")) {
+    return res.sendFile(path.join(__dirname, "public", "agenda.html"));
+  }
+
+  // 🔧 SI ES LOCAL
+  return res.sendFile(path.join(__dirname, "public", "index.html"));
 });
 
 // 🔥 DESPUÉS static
